@@ -1,0 +1,111 @@
+D:\ProjetsC#\jpo\jpo\bin\x64\Debug\jpo.exe.config
+D:\ProjetsC#\jpo\jpo\bin\x64\Debug\jpo.exe
+D:\ProjetsC#\jpo\jpo\bin\x64\Debug\jpo.pdb
+D:\ProjetsC#\jpo\jpo\obj\x64\Debug\jpo.csprojAssemblyReference.cache
+D:\ProjetsC#\jpo\jpo\obj\x64\Debug\jpo.frmJPO.resources
+D:\ProjetsC#\jpo\jpo\obj\x64\Debug\jpo.Properties.Resources.resources
+D:\ProjetsC#\jpo\jpo\obj\x64\Debug\jpo.csproj.GenerateResource.cache
+D:\ProjetsC#\jpo\jpo\obj\x64\Debug\jpo.csproj.CoreCompileInputs.cache
+D:\ProjetsC#\jpo\jpo\obj\x64\Debug\jpo.exe
+D:\ProjetsC#\jpo\jpo\obj\x64\Debug\jpo.pdb
+D:\ProjetsC#\jpo\jpo\obj\x64\Debug\jpo.frmEnregistrementLigues.resources
+D:\ProjetsC#\jpo\jpo\obj\x64\Debug\jpo.frmEnregistrementMembres.resources
+D:\ProjetsC#\jpo\jpo\obj\x64\Debug\jpo.frmInscriptionLigues.resources
+D:\ProjetsC#\jpo\jpo\obj\x64\Debug\jpo.frmInscriptionMembres.resources
+F:\2020-2021\AP-SIO1B\AP2.3 JPO\jpo\jpo\bin\x64\Debug\jpo.exe.config
+F:\2020-2021\AP-SIO1B\AP2.3 JPO\jpo\jpo\bin\x64\Debug\jpo.exe
+F:\2020-2021\AP-SIO1B\AP2.3 JPO\jpo\jpo\bin\x64\Debug\jpo.pdb
+F:\2020-2021\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.frmEnregistrementLigues.resources
+F:\2020-2021\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.frmEnregistrementMembres.resources
+F:\2020-2021\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.frmInscriptionLigues.resources
+F:\2020-2021\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.frmInscriptionMembres.resources
+F:\2020-2021\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.frmJPO.resources
+F:\2020-2021\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.Properties.Resources.resources
+F:\2020-2021\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.csproj.GenerateResource.cache
+F:\2020-2021\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.csproj.CoreCompileInputs.cache
+F:\2020-2021\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.exe
+F:\2020-2021\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.pdb
+F:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\bin\x64\Debug\jpo.exe.config
+F:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\bin\x64\Debug\jpo.exe
+F:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\bin\x64\Debug\jpo.pdb
+F:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.csproj.AssemblyReference.cache
+F:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.frmEnregistrementLigues.resources
+F:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.frmEnregistrementMembres.resources
+F:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.frmInscriptionLigues.resources
+F:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.frmInscriptionMembres.resources
+F:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.frmJPO.resources
+F:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.Properties.Resources.resources
+F:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.csproj.GenerateResource.cache
+F:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.csproj.CoreCompileInputs.cache
+F:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.exe
+F:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.pdb
+E:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.csproj.AssemblyReference.cache
+E:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.frmEnregistrementLigues.resources
+E:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.frmEnregistrementMembres.resources
+E:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.frmInscriptionLigues.resources
+E:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.frmInscriptionMembres.resources
+E:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.frmJPO.resources
+E:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.Properties.Resources.resources
+E:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.csproj.GenerateResource.cache
+E:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.csproj.CoreCompileInputs.cache
+E:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.exe
+E:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\x64\Debug\jpo.pdb
+E:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\bin\x64\Debug\jpo.exe.config
+E:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\bin\x64\Debug\jpo.exe
+E:\2021-2022\AP-SIO1B\AP2.3 JPO\jpo\jpo\bin\x64\Debug\jpo.pdb
+F:\AP SIO 1B - 2024-2025\AP 2.2 - JPO\jpo\jpo\bin\x64\Debug\jpo.exe.config
+F:\AP SIO 1B - 2024-2025\AP 2.2 - JPO\jpo\jpo\bin\x64\Debug\jpo.exe
+F:\AP SIO 1B - 2024-2025\AP 2.2 - JPO\jpo\jpo\bin\x64\Debug\jpo.pdb
+F:\AP SIO 1B - 2024-2025\AP 2.2 - JPO\jpo\jpo\obj\x64\Debug\jpo.csproj.AssemblyReference.cache
+F:\AP SIO 1B - 2024-2025\AP 2.2 - JPO\jpo\jpo\obj\x64\Debug\jpo.frmEnregistrementLigues.resources
+F:\AP SIO 1B - 2024-2025\AP 2.2 - JPO\jpo\jpo\obj\x64\Debug\jpo.frmEnregistrementMembres.resources
+F:\AP SIO 1B - 2024-2025\AP 2.2 - JPO\jpo\jpo\obj\x64\Debug\jpo.frmInscriptionLigues.resources
+F:\AP SIO 1B - 2024-2025\AP 2.2 - JPO\jpo\jpo\obj\x64\Debug\jpo.frmInscriptionMembres.resources
+F:\AP SIO 1B - 2024-2025\AP 2.2 - JPO\jpo\jpo\obj\x64\Debug\jpo.frmJPO.resources
+F:\AP SIO 1B - 2024-2025\AP 2.2 - JPO\jpo\jpo\obj\x64\Debug\jpo.Properties.Resources.resources
+F:\AP SIO 1B - 2024-2025\AP 2.2 - JPO\jpo\jpo\obj\x64\Debug\jpo.csproj.GenerateResource.cache
+F:\AP SIO 1B - 2024-2025\AP 2.2 - JPO\jpo\jpo\obj\x64\Debug\jpo.csproj.CoreCompileInputs.cache
+F:\AP SIO 1B - 2024-2025\AP 2.2 - JPO\jpo\jpo\obj\x64\Debug\jpo.exe
+F:\AP SIO 1B - 2024-2025\AP 2.2 - JPO\jpo\jpo\obj\x64\Debug\jpo.pdb
+I:\Lycée\SIO1B\commun\AP 2024-2025\Semestre 2\AP 2.2 - JPO\jpo\jpo\bin\x64\Debug\jpo.exe.config
+I:\Lycée\SIO1B\commun\AP 2024-2025\Semestre 2\AP 2.2 - JPO\jpo\jpo\bin\x64\Debug\jpo.exe
+I:\Lycée\SIO1B\commun\AP 2024-2025\Semestre 2\AP 2.2 - JPO\jpo\jpo\bin\x64\Debug\jpo.pdb
+I:\Lycée\SIO1B\commun\AP 2024-2025\Semestre 2\AP 2.2 - JPO\jpo\jpo\obj\x64\Debug\jpo.csproj.AssemblyReference.cache
+I:\Lycée\SIO1B\commun\AP 2024-2025\Semestre 2\AP 2.2 - JPO\jpo\jpo\obj\x64\Debug\jpo.frmEnregistrementLigues.resources
+I:\Lycée\SIO1B\commun\AP 2024-2025\Semestre 2\AP 2.2 - JPO\jpo\jpo\obj\x64\Debug\jpo.frmEnregistrementMembres.resources
+I:\Lycée\SIO1B\commun\AP 2024-2025\Semestre 2\AP 2.2 - JPO\jpo\jpo\obj\x64\Debug\jpo.frmInscriptionLigues.resources
+I:\Lycée\SIO1B\commun\AP 2024-2025\Semestre 2\AP 2.2 - JPO\jpo\jpo\obj\x64\Debug\jpo.frmInscriptionMembres.resources
+I:\Lycée\SIO1B\commun\AP 2024-2025\Semestre 2\AP 2.2 - JPO\jpo\jpo\obj\x64\Debug\jpo.frmJPO.resources
+I:\Lycée\SIO1B\commun\AP 2024-2025\Semestre 2\AP 2.2 - JPO\jpo\jpo\obj\x64\Debug\jpo.Properties.Resources.resources
+I:\Lycée\SIO1B\commun\AP 2024-2025\Semestre 2\AP 2.2 - JPO\jpo\jpo\obj\x64\Debug\jpo.csproj.GenerateResource.cache
+I:\Lycée\SIO1B\commun\AP 2024-2025\Semestre 2\AP 2.2 - JPO\jpo\jpo\obj\x64\Debug\jpo.csproj.CoreCompileInputs.cache
+I:\Lycée\SIO1B\commun\AP 2024-2025\Semestre 2\AP 2.2 - JPO\jpo\jpo\obj\x64\Debug\jpo.exe
+I:\Lycée\SIO1B\commun\AP 2024-2025\Semestre 2\AP 2.2 - JPO\jpo\jpo\obj\x64\Debug\jpo.pdb
+D:\BTS SIO\S2\AP\AP 2.2 - JPO NE PAS OUVRIR\jpoTest1\jpo\jpo\bin\x64\Debug\jpo.exe.config
+D:\BTS SIO\S2\AP\AP 2.2 - JPO NE PAS OUVRIR\jpoTest1\jpo\jpo\bin\x64\Debug\jpo.exe
+D:\BTS SIO\S2\AP\AP 2.2 - JPO NE PAS OUVRIR\jpoTest1\jpo\jpo\bin\x64\Debug\jpo.pdb
+D:\BTS SIO\S2\AP\AP 2.2 - JPO NE PAS OUVRIR\jpoTest1\jpo\jpo\obj\x64\Debug\jpo.csproj.AssemblyReference.cache
+D:\BTS SIO\S2\AP\AP 2.2 - JPO NE PAS OUVRIR\jpoTest1\jpo\jpo\obj\x64\Debug\jpo.frmEnregistrementLigues.resources
+D:\BTS SIO\S2\AP\AP 2.2 - JPO NE PAS OUVRIR\jpoTest1\jpo\jpo\obj\x64\Debug\jpo.frmEnregistrementMembres.resources
+D:\BTS SIO\S2\AP\AP 2.2 - JPO NE PAS OUVRIR\jpoTest1\jpo\jpo\obj\x64\Debug\jpo.frmInscriptionLigues.resources
+D:\BTS SIO\S2\AP\AP 2.2 - JPO NE PAS OUVRIR\jpoTest1\jpo\jpo\obj\x64\Debug\jpo.frmInscriptionMembres.resources
+D:\BTS SIO\S2\AP\AP 2.2 - JPO NE PAS OUVRIR\jpoTest1\jpo\jpo\obj\x64\Debug\jpo.frmJPO.resources
+D:\BTS SIO\S2\AP\AP 2.2 - JPO NE PAS OUVRIR\jpoTest1\jpo\jpo\obj\x64\Debug\jpo.Properties.Resources.resources
+D:\BTS SIO\S2\AP\AP 2.2 - JPO NE PAS OUVRIR\jpoTest1\jpo\jpo\obj\x64\Debug\jpo.csproj.GenerateResource.cache
+D:\BTS SIO\S2\AP\AP 2.2 - JPO NE PAS OUVRIR\jpoTest1\jpo\jpo\obj\x64\Debug\jpo.csproj.CoreCompileInputs.cache
+D:\BTS SIO\S2\AP\AP 2.2 - JPO NE PAS OUVRIR\jpoTest1\jpo\jpo\obj\x64\Debug\jpo.exe
+D:\BTS SIO\S2\AP\AP 2.2 - JPO NE PAS OUVRIR\jpoTest1\jpo\jpo\obj\x64\Debug\jpo.pdb
+C:\Users\zaki3\Desktop\jpoTest1\jpo\jpo\bin\x64\Debug\jpo.exe.config
+C:\Users\zaki3\Desktop\jpoTest1\jpo\jpo\bin\x64\Debug\jpo.exe
+C:\Users\zaki3\Desktop\jpoTest1\jpo\jpo\bin\x64\Debug\jpo.pdb
+C:\Users\zaki3\Desktop\jpoTest1\jpo\jpo\obj\x64\Debug\jpo.csproj.AssemblyReference.cache
+C:\Users\zaki3\Desktop\jpoTest1\jpo\jpo\obj\x64\Debug\jpo.frmEnregistrementLigues.resources
+C:\Users\zaki3\Desktop\jpoTest1\jpo\jpo\obj\x64\Debug\jpo.frmEnregistrementMembres.resources
+C:\Users\zaki3\Desktop\jpoTest1\jpo\jpo\obj\x64\Debug\jpo.frmInscriptionLigues.resources
+C:\Users\zaki3\Desktop\jpoTest1\jpo\jpo\obj\x64\Debug\jpo.frmInscriptionMembres.resources
+C:\Users\zaki3\Desktop\jpoTest1\jpo\jpo\obj\x64\Debug\jpo.frmJPO.resources
+C:\Users\zaki3\Desktop\jpoTest1\jpo\jpo\obj\x64\Debug\jpo.Properties.Resources.resources
+C:\Users\zaki3\Desktop\jpoTest1\jpo\jpo\obj\x64\Debug\jpo.csproj.GenerateResource.cache
+C:\Users\zaki3\Desktop\jpoTest1\jpo\jpo\obj\x64\Debug\jpo.csproj.CoreCompileInputs.cache
+C:\Users\zaki3\Desktop\jpoTest1\jpo\jpo\obj\x64\Debug\jpo.exe
+C:\Users\zaki3\Desktop\jpoTest1\jpo\jpo\obj\x64\Debug\jpo.pdb

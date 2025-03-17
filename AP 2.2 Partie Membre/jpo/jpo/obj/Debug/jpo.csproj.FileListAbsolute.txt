@@ -1,0 +1,23 @@
+D:\ProjetsC#\jpo\jpo\bin\Debug\jpo.exe.config
+D:\ProjetsC#\jpo\jpo\bin\Debug\jpo.exe
+D:\ProjetsC#\jpo\jpo\bin\Debug\jpo.pdb
+D:\ProjetsC#\jpo\jpo\obj\Debug\jpo.frmJPO.resources
+D:\ProjetsC#\jpo\jpo\obj\Debug\jpo.Properties.Resources.resources
+D:\ProjetsC#\jpo\jpo\obj\Debug\jpo.csproj.GenerateResource.Cache
+D:\ProjetsC#\jpo\jpo\obj\Debug\jpo.csproj.CoreCompileInputs.cache
+D:\ProjetsC#\jpo\jpo\obj\Debug\jpo.exe
+D:\ProjetsC#\jpo\jpo\obj\Debug\jpo.pdb
+D:\ProjetsC#\jpo\jpo\obj\Debug\jpo.csprojAssemblyReference.cache
+F:\2020-2021\AP-SIO1B\AP2.3 JPO\jpo\jpo\bin\Debug\jpo.exe.config
+F:\2020-2021\AP-SIO1B\AP2.3 JPO\jpo\jpo\bin\Debug\jpo.exe
+F:\2020-2021\AP-SIO1B\AP2.3 JPO\jpo\jpo\bin\Debug\jpo.pdb
+F:\2020-2021\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\Debug\jpo.csprojResolveAssemblyReference.cache
+F:\2020-2021\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\Debug\jpo.frmEnregistrementLigues.resources
+F:\2020-2021\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\Debug\jpo.frmEnregistrementMembres.resources
+F:\2020-2021\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\Debug\jpo.frmInscriptionLigues.resources
+F:\2020-2021\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\Debug\jpo.frmInscriptionMembres.resources
+F:\2020-2021\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\Debug\jpo.frmJPO.resources
+F:\2020-2021\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\Debug\jpo.Properties.Resources.resources
+F:\2020-2021\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\Debug\jpo.csproj.GenerateResource.Cache
+F:\2020-2021\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\Debug\jpo.exe
+F:\2020-2021\AP-SIO1B\AP2.3 JPO\jpo\jpo\obj\Debug\jpo.pdb
